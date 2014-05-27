@@ -7,6 +7,8 @@ List of iOS related courses taken:
 
 - iOS App Development Essential Training - Lynda.com  - http://www.lynda.com/iOS-tutorials/iOS-App-Development-Essential-Training/159179-2.html?srchtrk=index:1%0Alinktypeid:2%0Aq:iOS%0Apage:1%0As:relevance%0Asa:true%0Aproducttypeid:2
 
+- Building a Note-Taking App for iOS 7 - Lynda.com - http://www.lynda.com/iOS-tutorials/Building-Note-Taking-App-iOS-7/161476-2.html
+
 - Objective-C Essential Training - Lynda.com - http://www.lynda.com/Objective-C-tutorials/Objective-C-Essential-Training/143328-2.html
 
 List of Android related courses taken:
